@@ -36,7 +36,9 @@ docker run -it -p 8051:8051 professornuo/intelligent_algebraic_systems
 
 ## 四、测试用例：
 `a*sin(b*x+c^log(2,sin(a)))+abs(3+x)*cos(cos(b)+(b-4*ac))/(2*floor(x))-log(a,x)`
+
 `𝑎 sin(𝑏 ∗ 𝑥 + 𝑐^2) + abs(3 + x) ∗ sec(𝑏 + (b − 4𝑎𝑐))/(2 ∗ 𝑓𝑙𝑜𝑜𝑟(𝑥)) − log(𝑎, 𝑥) ∗ ln(𝑥)`
+
 `log(log(log(𝑎, 𝑥), 𝑚), 𝑛) + sin(cos(sin(cos(x) + a ∗ b/(c ∗ d)) + b) + c)`
 
 ## 五、俺的作品
