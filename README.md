@@ -24,4 +24,4 @@
 5. 允许用户自定义函数，如定义 `f(x) = (x+2)^2` 后，用户可以在表达式中使用该函数：`f(sin(a))+f(a)+sin(f(a))`
 6. 下图为程序效果参考：
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/ba8a68ec-2278-4ce4-ad0b-4e7a8a0c4b0f)
-[[https://www.netpad.net.cn/resource_web/course/#/575887]]
+[几何画板的demo](https://www.netpad.net.cn/resource_web/course/#/575887 "几何画板的demo")
