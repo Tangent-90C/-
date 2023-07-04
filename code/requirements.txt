@@ -1,0 +1,7 @@
+streamlit
+plotly
+matplotlib
+sympy
+numpy
+ply
+regex

@@ -1,0 +1,9 @@
+FROM python:slim-bullseye
+MAINTAINER nuo<32106500027@e.gzhu.edu.cn>
+ADD code /bin/smart_number
+ENV ETCPATH /bin/smart_number
+WORKDIR $ETCPATH
+RUN pip install --upgrade pip && pip install -r requirements.txt && pip cache purge
+EXPOSE 8501
+
+ENTRYPOINT ["python", "run_前端.py"]
