@@ -4,7 +4,7 @@
 安装docker后，在shell中执行以下指令
 ``` shell
 docker pull professornuo/intelligent_algebraic_systems
-docker run -it -p 8051:8051 professornuo/intelligent_algebraic_systems
+docker run -it -p 8501:8501 professornuo/intelligent_algebraic_systems
 ```
 随后在浏览器中打开URL `http://127.0.0.1:8501` 即可使用
 
