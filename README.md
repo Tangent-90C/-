@@ -34,7 +34,12 @@ docker run -it -p 8051:8051 professornuo/intelligent_algebraic_systems
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/ba8a68ec-2278-4ce4-ad0b-4e7a8a0c4b0f)
 [几何画板的demo](https://www.netpad.net.cn/resource_web/course/#/575887 "几何画板的demo")
 
-## 四、俺的作品
+## 四、测试用例：
+`a*sin(b*x+c^log(2,sin(a)))+abs(3+x)*cos(cos(b)+(b-4*ac))/(2*floor(x))-log(a,x)`
+`𝑎 sin(𝑏 ∗ 𝑥 + 𝑐^2) + abs(3 + x) ∗ sec(𝑏 + (b − 4𝑎𝑐))/(2 ∗ 𝑓𝑙𝑜𝑜𝑟(𝑥)) − log(𝑎, 𝑥) ∗ ln(𝑥)`
+`log(log(log(𝑎, 𝑥), 𝑚), 𝑛) + sin(cos(sin(cos(x) + a ∗ b/(c ∗ d)) + b) + c)`
+
+## 五、俺的作品
 ### 解析式计算&Latex输出&绘图测试
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/555dc74b-3dfd-4c21-9be6-a7ce30f89b06)
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/235405a3-f4fd-4e11-92d1-44afb67db562)
