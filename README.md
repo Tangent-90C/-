@@ -1,5 +1,5 @@
 # 《智能系统设计与应用》课程设计 
-
+docker仓库见：[https://hub.docker.com/r/professornuo/intelligent_algebraic_systems](https://hub.docker.com/r/professornuo/intelligent_algebraic_systems)
 ##  零、使用方法
 安装docker后，在shell中执行以下指令
 ``` shell
