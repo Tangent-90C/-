@@ -6,7 +6,7 @@
 docker pull professornuo/intelligent_algebraic_systems
 docker run -it -p 8501:8501 professornuo/intelligent_algebraic_systems
 ```
-随后在浏览器中打开URL `http://127.0.0.1:8501` 即可使用
+随后在浏览器中打开URL [http://127.0.0.1:8501](http://127.0.0.1:8501) 即可使用
 
 ## 一、课程设计目的 
 通过设计并实现一个小型智能系统培养学生软件系统开发的基本能力，包括加深面向对象程序设计的理解、提高学生编程动手能力、软件系统的设计与实现能力、基本算法的设计、编程与调试能力、智能系统的分析与实现能力。
