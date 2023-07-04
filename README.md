@@ -25,3 +25,11 @@
 6. 下图为程序效果参考：
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/ba8a68ec-2278-4ce4-ad0b-4e7a8a0c4b0f)
 [几何画板的demo](https://www.netpad.net.cn/resource_web/course/#/575887 "几何画板的demo")
+
+## 四、俺的作品
+### 解析式计算&Latex输出&绘图测试
+![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/555dc74b-3dfd-4c21-9be6-a7ce30f89b06)
+![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/235405a3-f4fd-4e11-92d1-44afb67db562)
+### 自定义函数测试
+![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/7e7d45fb-3efb-4e41-870a-d7ea1952c057)
+![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/936f32e2-e7e3-465c-be27-a8801d849544)
