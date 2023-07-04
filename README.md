@@ -44,6 +44,7 @@ docker run -it -p 8501:8501 professornuo/intelligent_algebraic_systems
 ## 五、俺的作品
 ### 解析式计算&Latex输出&绘图测试
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/555dc74b-3dfd-4c21-9be6-a7ce30f89b06)
+![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/dc840cc6-6faa-42e0-8c82-0999a052e407)
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/235405a3-f4fd-4e11-92d1-44afb67db562)
 ### 自定义函数测试
 ![image](https://github.com/Tangent-90C/Intelligent-System-Design-and-Application-course-design-/assets/28804414/7e7d45fb-3efb-4e41-870a-d7ea1952c057)
